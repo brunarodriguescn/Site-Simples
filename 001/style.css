@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.insta{
+    position: absolute;
+    right: 220px;   /* Logo do instagram*/
+    top: 50px;
+    
+}
+a{
+    position: absolute;
+    right: 140px;
+    top:47px;
+    font-family:initial; /* Link do instagram*/
+    font-style: italic;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 0, 200);
+    text-decoration: none; /*Mudança de cor do link*/
+  }
+
+.bg{
+    background-image: url(img/fundo2.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Imagem de fundo*/
+}
+
+
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;         /* Titulos*/
+    text-shadow: 1px 1px 1px rgb(240, 134, 199);
+}
+p{ 
+    text-align: center;
+    font-size:22px;
+    text-shadow: 1px 1px 1px rgb(240, 134, 199); /* Paragrafos*/
+    margin: 50px;
+    
+}
+hr{
+    width: 90%; /* Tamanho da linha horizontal*/
+}
