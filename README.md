@@ -1,2 +1,2 @@
 # Site Simples 
- Testando e exercitando HTML5 e CSS3
+ Exercitando HTML5 e CSS3
